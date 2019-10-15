@@ -2,7 +2,7 @@
 title: Application
 ---
 
-This module provides useful information about the native application, such as the its ID, app name, and build version.
+This module provides useful information about the native application, such as its ID, app name, and build version.
 
 ## Installation
 
